@@ -17,7 +17,7 @@
 		<java.version>17</java.version>
 		<sonar.organization>pov-java</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>pov-java_pov-java</sonar.projectKey>
+		<sonar.projectKey>pov-java_point-of-sale</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -60,6 +60,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
+
 		</plugins>
 	</build>
 
